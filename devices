@@ -409,6 +409,57 @@
                "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
                "maintainer_country": "GER",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
+          },
+          {
+               "name": "Pixel 6",
+               "codename": "oriole",
+               "manufacturer": "Google",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "sirhc",
+               "maintainer_link": "https://forum.xda-developers.com/m/sirhc.4678203/",
+               "maintainer_country": "US",
+               "xda_thread": ""
+          },
+          {
+               "name": "Pixel 6 Pro",
+               "codename": "raven",
+               "manufacturer": "Google",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "sirhc",
+               "maintainer_link": "https://forum.xda-developers.com/m/sirhc.4678203/",
+               "maintainer_country": "US",
+               "xda_thread": ""
+          },
+          {
+               "name": "Pixel 6a",
+               "codename": "bluejay",
+               "manufacturer": "Google",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "sirhc",
+               "maintainer_link": "https://forum.xda-developers.com/m/sirhc.4678203/",
+               "maintainer_country": "US",
+               "xda_thread": ""
           }
      ]
 }
