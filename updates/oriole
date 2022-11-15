@@ -3,7 +3,7 @@
     {
       "date": "2022-10-16",
       "datetime": "1665792222",
-      "filename": "aospa-topaz-beta-1.1-oriole-20221016",
+      "filename": "aospa-topaz-beta-1.1-oriole-20221016.zip",
       "url": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-oriole/aospa-topaz-beta-1.1-oriole-20221016.zip",
       "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-oriole/aospa-topaz-beta-1.1-oriole-20221016-image.zip",
       "mirror": "https://drive.google.com/drive/folders/1f8NeK8aERsZXoTzyDfviYzdMDpg-jMff?usp=sharing",
@@ -18,7 +18,7 @@
     {
       "date": "2022-10-15",
       "datetime": "1665792000",
-      "filename": "aospa-topaz-beta-1-oriole-20221015",
+      "filename": "aospa-topaz-beta-1-oriole-20221015.zip",
       "url": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1-oriole/aospa-topaz-beta-1-oriole-20221015.zip",
       "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1-oriole/aospa-topaz-beta-1-oriole-20221015-image.zip",
       "mirror": "https://drive.google.com/drive/folders/1OkqMVGAefvjPNRPRd67W1yNriwmqdGo9?usp=sharing",
