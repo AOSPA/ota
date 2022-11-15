@@ -10,10 +10,11 @@
       "telegram": "https://t.me/paranoidaospa/85",
       "id": "6c6abdd08056c295d08cf1dfa7993be375ec6f5994040a8e72f150ab799adcc2",
       "size": "1658741945",
-      "romtype": "Beta",
-      "number": "1.1",
+      "build_type": "Beta",
+      "version_code": "1.1",
       "version": "Topaz", 
-      "android_version": "13"
+      "android_version": "13",
+      "android_spl": "2022-10-05"
     },
     {
       "date": "2022-10-15",
@@ -25,10 +26,11 @@
       "telegram": "https://t.me/paranoidaospa/79",
       "id": "5f423ec117d24c4b5199ff305d8e5233ad496ca0d1b3ee0628417160e7a76065",
       "size": "1658741945",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Topaz", 
-      "android_version": "13"
+      "android_version": "13",
+      "android_spl": "2022-10-05"
     }
    ]
 }

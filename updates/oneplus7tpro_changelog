@@ -2,15 +2,15 @@
   "changelogs": [
     {
       "text": "Updated blobs, EROFS, Fixed camera issues, WireGuard kernel support, Fuse passthrough",
-      "romtype": "Beta",
-      "number": "2",
+      "build_type": "Beta",
+      "version_code": "2",
       "version": "Sapphire", 
       "android_version": "12"
     },
     {
       "text": "Initial beta release",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Sapphire", 
       "android_version": "12"
     }

@@ -2,8 +2,8 @@
   "changelogs": [
     {
       "text": "Fixed 5G indicator, improved data connectivity, fixed UDFPS on lockscreen",
-      "romtype": "Alpha",
-      "number": "2",
+      "build_type": "Alpha",
+      "version_code": "2",
       "version": "Topaz", 
       "android_version": "13"
     }

@@ -7,10 +7,11 @@
       "url": "https://drive.google.com/uc?export=download&id=1x6b4QbBAng5n05DDgRq0g9sr8AhMGja7",
       "id": "4414d225430ce1589c75d7711fe919c4",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "3",
+      "build_type": "Alpha",
+      "version_code": "3",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-04-05"
     },
     {
       "date": "2022-01-18",
@@ -19,10 +20,11 @@
       "url": "https://github.com/aospa-releases/oneplus8/releases/download/sapphire-alpha-2/aospa-sapphire-2-oneplus8-alpha-20220118-image.zip",
       "id": "ac24033bd9978ab98fae9044d3c881e7",
       "size": "2023168327",
-      "romtype": "Alpha",
-      "number": "2",
+      "build_type": "Alpha",
+      "version_code": "2",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-01-05"
     },
     {
       "date": "2021-11-28",
@@ -31,10 +33,11 @@
       "url": "https://github.com/aospa-releases/oneplus8/releases/download/sapphire-alpha-1/aospa-sapphire-1-oneplus8-alpha-20211128-image.zip",
       "id": "f4233e91ebb9a1787df82307c6b186e7",
       "size": "1917990106",
-      "romtype": "Alpha",
-      "number": "1",
+      "build_type": "Alpha",
+      "version_code": "1",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2021-11-05"
     }
   ]
 }

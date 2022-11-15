@@ -2,8 +2,8 @@
   "changelogs": [
     {
       "text": "Initial beta release",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Topaz", 
       "android_version": "13"
     }

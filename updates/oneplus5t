@@ -7,10 +7,11 @@
       "url": "https://github.com/aospa-releases/oneplus5t/releases/download/sapphire-beta-1/aospa-sapphire-1-oneplus5t-beta-20220509.zip",
       "id": "69b677589fbc6c020905096ad278ba9c",
       "size": "1517032046",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-05-05"
     }
   ]
 }

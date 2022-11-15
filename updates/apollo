@@ -8,10 +8,11 @@
       "mirror": "https://drive.google.com/drive/folders/1cbMfoS_mMrM0nPfPCKzxN-K0Ff3pBg4m?usp=sharing",
       "id": "69708d199630336619eb13820cf0e45047440ddced41e2eb33e5c1eee74344cc",
       "size": "2345834837",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-08-05"
     },
     {
       "date": "2022-02-02",
@@ -20,10 +21,11 @@
       "url": "https://github.com/aospa-releases/apollo/releases/download/sapphire-alpha-2/aospa-sapphire-2-apollo-alpha-20220202.zip",
       "id": "c694a856834a37a866de354877461775",
       "size": "1801885760",
-      "romtype": "Alpha",
-      "number": "2",
+      "build_type": "Alpha",
+      "version_code": "2",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-02-05"
     },
     {
       "date": "2021-12-25",
@@ -32,10 +34,11 @@
       "url": "https://github.com/aospa-releases/apollo/releases/download/sapphire-alpha-1/aospa-sapphire-1-apollo-alpha-20211225.zip",
       "id": "591f7e21d75f2275cd0e33d9770b2f74",
       "size": "1750669956",
-      "romtype": "Alpha",
-      "number": "1",
+      "build_type": "Alpha",
+      "version_code": "1",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2021-12-05"
     }
   ]
 }

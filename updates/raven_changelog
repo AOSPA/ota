@@ -2,15 +2,15 @@
   "changelogs": [
     {
       "text": "Fixed issue where the wallpaper couldn't be changed, Fixed access to onboard theming",
-      "romtype": "Beta",
-      "number": "1.1",
+      "build_type": "Beta",
+      "version_code": "1.1",
       "version": "Topaz", 
       "android_version": "13"
     },
     {
       "text": "Initial beta release",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Topaz", 
       "android_version": "13"
     }

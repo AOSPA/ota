@@ -11,10 +11,11 @@
       "switchLinks": true,
       "id": "2e05184b07cc07d17c26d77bc8513fd94529dcbd6747ae6ad2643e8e9a575ccd",
       "size": "1817924784",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Topaz", 
-      "android_version": "13"
+      "android_version": "13",
+      "android_spl": "2022-10-05"
     },
     {
       "date": "2021-12-13",
@@ -23,10 +24,11 @@
       "url": "https://github.com/aospa-releases/oneplus9pro/releases/download/sapphire-alpha-2/aospa-sapphire-2-oneplus9pro-alpha-20211213-img.zip",
       "id": "498353ec40853760e1e7d1d755fcbfbc",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "2",
+      "build_type": "Alpha",
+      "version_code": "2",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2021-12-05"
     },
     {
       "date": "2021-12-06",
@@ -35,10 +37,11 @@
       "url": "https://github.com/aospa-releases/oneplus9pro/releases/download/sapphire-alpha-1/aospa-sapphire-1-oneplus9pro-alpha-20211206-img.zip",
       "id": "816b777a752200a57450b4e93f46bcb6",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "1",
-      "version": "Sapphire", 
-      "android_version": "12"
+      "build_type": "Alpha",
+      "version_code": "1",
+      "version": "Sapphire",
+      "android_version": "12",
+      "android_spl": "2021-12-05"
     }
   ]
 }

@@ -7,10 +7,11 @@
       "url": "https://github.com/aospa-releases/perseus/releases/download/sapphire-alpha-2/aospa-sapphire-2-perseus-alpha-20220217.zip",
       "id": "70f3a08769830528f68cadea97137ec6",
       "size": "1592591164",
-      "romtype": "Alpha",
-      "number": "2",
+      "build_type": "Alpha",
+      "version_code": "2",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-02-05"
     },
     {
       "date": "2022-02-09",
@@ -19,10 +20,11 @@
       "url": "https://github.com/aospa-releases/perseus/releases/download/sapphire-alpha-1/aospa-sapphire-1-perseus-alpha-20220209.zip",
       "id": "9a8f3debcbed076fd358d93bb2b6809b",
       "size": "1600155844",
-      "romtype": "Alpha",
-      "number": "1",
+      "build_type": "Alpha",
+      "version_code": "1",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-02-05"
     }
   ]
 }

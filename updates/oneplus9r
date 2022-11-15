@@ -7,10 +7,11 @@
       "url": "https://drive.google.com/uc?export=download&id=1d2DOQpGMMs3h7XHhfzePT1V2mmgLEwVs",
       "id": "31b5fb4bd268b2c84fc175869293ba46",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "3",
+      "build_type": "Alpha",
+      "version_code": "3",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-04-05"
     }
   ]
 }

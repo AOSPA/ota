@@ -11,10 +11,11 @@
       "switchLinks": true,
       "id": "044a87030ce30501d92a7c32f9a38cf8d846e0e1379e805d696b9ed8eb83019c",
       "size": "1817924784",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Topaz", 
-      "android_version": "13"
+      "android_version": "13",
+      "android_spl": "2022-10-05"
     }
   ]
 }

@@ -7,10 +7,11 @@
       "url": "https://github.com/aospa-releases/dipper/releases/download/sapphire-alpha-2/aospa-sapphire-2-dipper-alpha-20220217.zip",
       "id": "d564625a0c7adc04b0107aab68c98091",
       "size": "1453277753",
-      "romtype": "Alpha",
-      "number": "2",
+      "build_type": "Alpha",
+      "version_code": "2",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-02-05"
     },
     {
       "date": "2022-01-30",
@@ -19,10 +20,11 @@
       "url": "https://github.com/aospa-releases/dipper/releases/download/sapphire-alpha-1/aospa-sapphire-1-dipper-alpha-20220130.zip",
       "id": "85c7113c5481bcb742e5f8f8f3ac0694",
       "size": "1457241487",
-      "romtype": "Alpha",
-      "number": "1",
+      "build_type": "Alpha",
+      "version_code": "1",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-01-05"
     }
   ]
 }

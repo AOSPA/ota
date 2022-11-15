@@ -7,10 +7,11 @@
       "url": "https://github.com/aospa-releases/polaris/releases/download/sapphire-alpha-2/aospa-sapphire-2-polaris-alpha-20220217.zip",
       "id": "325f46c294d17ef78008e0e657d73eee",
       "size": "1452081499",
-      "romtype": "Alpha",
-      "number": "2",
-      "version": "Sapphire", 
-      "android_version": "12"
+      "build_type": "Alpha",
+      "version_code": "2",
+      "version": "Sapphire",
+      "android_version": "12",
+      "android_spl": "2022-02-05"
     },
     {
       "date": "2022-01-30",
@@ -19,10 +20,11 @@
       "url": "https://github.com/aospa-releases/polaris/releases/download/sapphire-alpha-1/aospa-sapphire-1-polaris-alpha-20220130.zip",
       "id": "308ae9b17fcac8b68617d7384aa79342",
       "size": "1455432201",
-      "romtype": "Alpha",
-      "number": "1",
-      "version": "Sapphire", 
-      "android_version": "12"
+      "build_type": "Alpha",
+      "version_code": "1",
+      "version": "Sapphire",
+      "android_version": "12",
+      "android_spl": "2022-01-05"
     }
   ]
 }

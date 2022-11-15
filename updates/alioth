@@ -7,10 +7,11 @@
       "url": "https://github.com/aospa-releases/alioth/releases/download/sapphire-beta-1/aospa-sapphire-1-alioth-beta-20220508.zip",
       "id": "d81172f99280efa3f1447f6ae65a2f34",
       "size": "1780580464",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-08-05"
     }
   ]
 }

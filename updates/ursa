@@ -7,10 +7,11 @@
       "url": "https://github.com/aospa-releases/ursa/releases/download/sapphire-alpha-1/aospa-sapphire-1-ursa-alpha-20220224.zip",
       "id": "25d136424545221b359d00a25ab2f43c",
       "size": "1484712413",
-      "romtype": "Alpha",
-      "number": "1",
-      "version": "Sapphire", 
-      "android_version": "12"
+      "build_type": "Alpha",
+      "version_code": "1",
+      "version": "Sapphire",
+      "android_version": "12",
+      "android_spl": "2022-02-05"
     }
   ]
 }

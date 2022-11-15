@@ -7,10 +7,11 @@
       "url": "https://github.com/aospa-releases/beryllium/releases/download/sapphire-alpha-2/aospa-sapphire-2-beryllium-alpha-20220217.zip",
       "id": "dd724b08ea316889f8a9cee83403fa04",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "2",
+      "build_type": "Alpha",
+      "version_code": "2",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-02-05"
     },
     {
       "date": "2022-01-30",
@@ -19,10 +20,11 @@
       "url": "https://github.com/aospa-releases/beryllium/releases/download/sapphire-alpha-1/aospa-sapphire-1-beryllium-alpha-20220130.zip",
       "id": "7843f4ed37896984f22a26a41385e3de",
       "size": "1389379622",
-      "romtype": "Alpha",
-      "number": "1",
+      "build_type": "Alpha",
+      "version_code": "1",
       "version": "Sapphire", 
-      "android_version": "12"
+      "android_version": "12",
+      "android_spl": "2022-01-05"
     }
   ]
 }

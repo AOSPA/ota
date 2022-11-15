@@ -10,10 +10,11 @@
       "telegram": "https://t.me/paranoidaospa/91",
       "id": "e8d78f246fc703d65e57ce73e8521a7dea5a088a282831ebea780b33db2f9efb",
       "size": "1658741945",
-      "romtype": "Beta",
-      "number": "1",
+      "build_type": "Beta",
+      "version_code": "1",
       "version": "Topaz", 
-      "android_version": "13"
+      "android_version": "13",
+      "android_spl": "2022-10-05"
     }
    ]
 }
