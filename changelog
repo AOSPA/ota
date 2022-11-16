@@ -4,8 +4,7 @@
             "version": "Topaz",
             "version_code": "1",
             "build_type": "Beta",
-            "changelog_main": "<b>Paranoid Android Topaz is here!</b>
-            <br><br>This update adds stability improvements, as well as fixes critical bugs. Learn more at <a href=\"https://paranoidandroid.co/changelog\">paranoidandroid.co/changelog</a><br><br>"
+            "changelog_main": "<b>Paranoid Android Topaz is here!</b> <br><br>This update adds stability improvements, as well as fixes critical bugs. Learn more at <a href=\"https://paranoidandroid.co/changelog\">paranoidandroid.co/changelog</a><br><br>"
         }
     ]
 }
