@@ -15,7 +15,8 @@
       "version": "Topaz", 
       "android_version": "13",
       "android_spl": "2022-10-05",
-      "changelog_device": "Fixed issue where the wallpaper couldn't be changed, Fixed access to onboard theming"
+      "changelog_device": "Fixed issue where the wallpaper couldn't be changed, Fixed access to onboard theming",
+      "changelog_device_id": ""
     },
     {
       "date": "2022-10-15",
@@ -32,7 +33,8 @@
       "version": "Topaz", 
       "android_version": "13",
       "android_spl": "2022-10-05",
-      "changelog_device": "Initial beta release"
+      "changelog_device": "Initial beta release",
+      "changelog_device_id": ""
     }
    ]
 }

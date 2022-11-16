@@ -16,7 +16,8 @@
       "version": "Topaz", 
       "android_version": "13",
       "android_spl": "2022-10-05",
-      "changelog_device": "Initial beta release"
+      "changelog_device": "Initial beta release",
+      "changelog_device_id": ""
     },
     {
       "date": "2021-12-13",
@@ -30,7 +31,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2021-12-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     },
     {
       "date": "2021-12-06",
@@ -44,7 +46,8 @@
       "version": "Sapphire",
       "android_version": "12",
       "android_spl": "2021-12-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     }
   ]
 }

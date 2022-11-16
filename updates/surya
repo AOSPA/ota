@@ -12,7 +12,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2022-02-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     },
     {
       "date": "2022-01-03",
@@ -26,7 +27,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2021-012-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     }
   ]
 }

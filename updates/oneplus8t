@@ -12,7 +12,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2022-04-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     }
   ]
 }

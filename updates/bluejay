@@ -15,7 +15,8 @@
       "version": "Topaz", 
       "android_version": "13",
       "android_spl": "2022-10-05",
-      "changelog_device": "Initial beta release"
+      "changelog_device": "Initial beta release",
+      "changelog_device_id": ""
     }
    ]
 }

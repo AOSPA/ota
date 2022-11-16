@@ -13,7 +13,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2022-08-05",
-      "changelog_device": "Initial beta release"
+      "changelog_device": "Initial beta release",
+      "changelog_device_id": ""
     },
     {
       "date": "2022-02-02",
@@ -27,7 +28,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2022-02-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     },
     {
       "date": "2021-12-25",
@@ -41,7 +43,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2021-12-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     }
   ]
 }

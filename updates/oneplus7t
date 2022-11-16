@@ -13,7 +13,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2022-06-05",
-      "changelog_device": "Updated blobs, EROFS, Fixed camera issues, WireGuard kernel support, Fuse passthrough"
+      "changelog_device": "Updated blobs, EROFS, Fixed camera issues, WireGuard kernel support, Fuse passthrough",
+      "changelog_device_id": ""
     },
     {
       "date": "2022-05-07",
@@ -27,7 +28,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2022-05-05",
-      "changelog_device": "Initial beta release"
+      "changelog_device": "Initial beta release",
+      "changelog_device_id": ""
     },
     {
       "date": "2022-03-04",
@@ -41,7 +43,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2022-02-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     },
     {
       "date": "2022-01-28",
@@ -55,7 +58,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2022-01-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     },
     {
       "date": "2021-12-21",
@@ -69,7 +73,8 @@
       "version": "Sapphire", 
       "android_version": "12",
       "android_spl": "2021-12-05",
-      "changelog_device": ""
+      "changelog_device": "",
+      "changelog_device_id": ""
     }
   ]
 }
