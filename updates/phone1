@@ -1,9 +1,26 @@
 {
   "updates": [
     {
+      "date": "2022-11-18",
+      "datetime": "1668818098",
+      "filename": "aospa-topaz-alpha-3-phone1-20221118.zip",
+      "url": "https://github.com/AOSPA/android_device_nothing_phone1/releases/download/topaz-alpha-3/aospa-topaz-alpha-3-phone1-20221118.zip",
+      "fastboot": "https://github.com/AOSPA/android_device_nothing_phone1/releases/download/topaz-alpha-3/aospa-topaz-alpha-3-phone1-20221118-image.zip",
+      "mirror": "",
+      "telegram": "https://t.me/paranoidaospa/110",
+      "id": "4f4823a5155ed81b1dc881db13aec6170fabc5d43e15648f6140e0037f1b6f3e",
+      "size": "1611203791",
+      "build_type": "Alpha",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2022-11-05",
+      "changelog_device": "Implemented Face Unlock, Fixed display corruption, Improved vibration, Fixed Bluetooth codecs, Fixed charging speed, Improved auto brightness, Improved boot time, Fixed DRM (Widevine L3 for now)"
+    },
+    {
       "date": "2022-10-19",
       "datetime": "1666218404",
-      "filename": "aospa-topaz-alpha-1-phone1-20221019.zip",
+      "filename": "aospa-topaz-alpha-2-phone1-20221019.zip",
       "url": "https://github.com/AOSPA/android_device_nothing_phone1/releases/download/topaz-alpha-2/aospa-topaz-alpha-2-phone1-20221019.zip",
       "fastboot": "https://github.com/AOSPA/android_device_nothing_phone1/releases/download/topaz-alpha-2/aospa-topaz-alpha-2-phone1-20221019-image.zip",
       "mirror": "https://drive.google.com/drive/folders/1gOHSrpna8M-et1EA5fR92ZEfPQ1NX3LL",
