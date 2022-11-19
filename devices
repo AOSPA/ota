@@ -49,6 +49,38 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-google-pixel-6-pro.4506077/"
           },
           {
+               "name": "Pixel 7",
+               "codename": "panther",
+               "manufacturer": "Google",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta"
+               ],
+               "active": true,
+               "maintainer_name": "sirhc",
+               "maintainer_link": "https://forum.xda-developers.com/m/sirhc.4678203/",
+               "maintainer_country": "US",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-google-pixel-7.4520781/"
+          },
+          {
+               "name": "Pixel 7 Pro",
+               "codename": "cheetah",
+               "manufacturer": "Google",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta"
+               ],
+               "active": true,
+               "maintainer_name": "sirhc",
+               "maintainer_link": "https://forum.xda-developers.com/m/sirhc.4678203/",
+               "maintainer_country": "US",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-google-pixel-7-pro.4520783/"
+          },
+          {
                "name": "phone (1)",
                "codename": "phone1",
                "manufacturer": "Nothing",
