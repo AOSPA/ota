@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2022-11-19",
+      "datetime": "1668885458",
+      "filename": "aospa-topaz-beta-2-raven-20221119.zip",
+      "url": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-2-raven/aospa-topaz-beta-2-raven-20221119.zip",
+      "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-2-raven/aospa-topaz-beta-2-raven-20221119-image.zip",
+      "mirror": "",
+      "telegram": "https://t.me/paranoidaospa/88",
+      "id": "3C6FB8528E186931E3EEFAE53DB7A09F7527C513351CE3A681E06E9CFC7F0AC4",
+      "size": "1700418106",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2022-11-05",
+      "changelog_device": "Fixed issue where device would crash and reboot, Fixed long press near the edges of display, Fixed thermal mitigation services, Addressed some issues that had a negative effect on performance, Updated to November SPL (android-13.0.0_r12), Add support for Face Unlock, Add support for OTA updates"
+    },
+    {
       "date": "2022-10-15",
       "datetime": "1665792222",
       "filename": "aospa-topaz-beta-1.1-raven-20221015.zip",
