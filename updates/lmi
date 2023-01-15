@@ -1,6 +1,22 @@
 {
   "updates": [
     {
+      "date": "2023-01-12",
+      "datetime": "1673481600000",
+      "filename": "aospa-topaz-beta-2-lmi-20230112.zip",
+      "url": "https://pixeldrain.com/api/file/KwCJi6xz",
+      "fastboot": "https://pixeldrain.com/api/file/LCWPEYSc",
+      "mirror": "https://drive.google.com/drive/folders/1kx7EyRaGDEwHcGY65ObcPU3ikz9ce6eM?usp=share_link",
+      "id": "83b3e435f3f6a222b73c9a2fcc0352e40bfc988869d488e36e48d5bd64b3e7ba",
+      "size": "2315230705",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2022-05-07",
       "datetime": "1651881600",
       "filename": "aospa-sapphire-3-lmi-beta-20220507.zip",
