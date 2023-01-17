@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2022-10-15",
+      "datetime": "1673740800",
+      "filename": "aospa-topaz-beta-2-oneplus9-20230115.zip",
+      "url": "https://mirror.codebucket.de/gotenks/aospa/oneplus9/aospa-topaz-beta-2-oneplus9-20230115.zip",
+      "fastboot": "https://mirror.codebucket.de/gotenks/aospa/oneplus9/aospa-topaz-beta-2-oneplus9-20230115-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "f858635cc1ba4fc6e5bcdf21528deaae542e76a17b88ff6a133cf1acf997bd67",
+      "size": "1969849105",
+      "build_type": "Beta",
+      "version_code": "2",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Fixed 60hz lag on unlock, Cleaned up Carrier configs, Screen Off gestures are now working properly, Updated UDFPS positioning, New rebased kernel has been introduced in this kernel, Performance improvements, Display color modes have been re-setup, Doze flickers have been fixed"
+    },
+    {
       "date": "2022-10-17",
       "datetime": "1666026877",
       "filename": "aospa-topaz-beta-1-oneplus9-20221017.zip",
