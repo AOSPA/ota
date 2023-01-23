@@ -1,22 +1,6 @@
 {
      "devices": [
           {
-               "name": "Pixel 6a",
-               "codename": "bluejay",
-               "manufacturer": "Google",
-               "supported_versions": [
-                    "Topaz"
-               ],
-               "supported_types": [
-                    "Beta"
-               ],
-               "active": true,
-               "maintainer_name": "sirhc",
-               "maintainer_link": "https://forum.xda-developers.com/m/sirhc.4678203/",
-               "maintainer_country": "US",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-google-pixel-6a.4506793/"
-          },
-          {
                "name": "Pixel 6",
                "codename": "oriole",
                "manufacturer": "Google",
@@ -31,6 +15,22 @@
                "maintainer_link": "https://forum.xda-developers.com/m/sirhc.4678203/",
                "maintainer_country": "US",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-google-pixel-6.4506075/"
+          },
+          {
+               "name": "Pixel 6a",
+               "codename": "bluejay",
+               "manufacturer": "Google",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta"
+               ],
+               "active": true,
+               "maintainer_name": "sirhc",
+               "maintainer_link": "https://forum.xda-developers.com/m/sirhc.4678203/",
+               "maintainer_country": "US",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-google-pixel-6a.4506793/"
           },
           {
                "name": "Pixel 6 Pro",
@@ -139,6 +139,242 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-oneplus-5-5t.4443517/"
           },
           {
+               "name": "7T",
+               "codename": "oneplus7t",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "timo_capa",
+               "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
+               "maintainer_country": "DE",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7t.4379529/"
+          },
+          {
+               "name": "7T Pro",
+               "codename": "oneplus7tpro",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "timo_capa",
+               "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
+               "maintainer_country": "DE",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-oneplus-7t-pro.4370669/"
+          },
+          {
+               "name": "7 Pro",
+               "codename": "oneplus7pro",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "timo_capa",
+               "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
+               "maintainer_country": "DE",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
+          },
+          {
+               "name": "8",
+               "codename": "oneplus8",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "33bca",
+               "maintainer_xda": "https://forum.xda-developers.com/m/33bca.5296790/",
+               "maintainer_country": "CH",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
+          },
+          {
+               "name": "8T",
+               "codename": "oneplus8t",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "33bca",
+               "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
+               "maintainer_country": "CH",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
+          },
+          {
+               "name": "8 Pro",
+               "codename": "oneplus8pro",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "33bca",
+               "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
+               "maintainer_country": "CH",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
+          },
+          {
+               "name": "9",
+               "codename": "oneplus9",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Beta"
+               ],
+               "active": true,
+               "maintainer_name": "vishalcj17",
+               "maintainer_link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
+               "maintainer_country": "IN",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9.4506891/"
+          },
+          {
+               "name": "9 Pro",
+               "codename": "oneplus9pro",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Topaz",
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "vishalcj17",
+               "maintainer_link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
+               "maintainer_country": "IN",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9-pro.4506887/"
+          },
+          {
+               "name": "9R",
+               "codename": "oneplus9r",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "33bca",
+               "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
+               "maintainer_country": "CH",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
+          },
+         {
+               "name": "F1",
+               "codename": "beryllium",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Topaz",
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "REIGNZ3",
+               "maintainer_link": "https://forum.xda-developers.com/m/reignz3.6549853/",
+               "maintainer_country": "IN",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f1.4541311/"
+          },
+          {
+               "name": "F2 Pro",
+               "codename": "lmi",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "mickaelmendes50",
+               "maintainer_link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
+               "maintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-sapphire-beta-1-poco-f2-pro.4370679/"
+          },
+          {
+               "name": "F3",
+               "codename": "alioth",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "omkartheandroid",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "IND",
+               "comaintainer_name": "Vitor00",
+               "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
+               "comaintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-poco-f3.4443141/"
+          },
+          {
+               "name": "X3 | X3 NFC",
+               "codename": "surya",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "chrisw444",
+               "maintainer_link": "https://forum.xda-developers.com/m/chrisw444.11220339/",
+               "maintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-poco-x3-x3-nfc.4383259/"
+          },
+          {
+               "name": "X3 Pro",
+               "codename": "vayu",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "Foxtrot47",
+               "maintainer_link": "https://forum.xda-developers.com/m/foxtrot47.10344183/",
+               "maintainer_country": "IN",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-poco-x3-pro.4408069/"
+          },
+          {
                "name": "GT Neo2 5G",
                "codename": "bitra",
                "manufacturer": "realme",
@@ -191,26 +427,6 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-poco-f3.4443141/"
           },
           {
-               "name": "Mi 11X",
-               "codename": "alioth",
-               "manufacturer": "Xiaomi",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Beta",
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "omkartheandroid",
-               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
-               "maintainer_country": "IN",
-               "comaintainer_name": "Vitor00",
-               "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
-               "comaintainer_country": "BR",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-poco-f3.4443141/"
-          },
-          {
                "name": "Note 11 / Note 11 NFC",
                "codename": "spes",
                "manufacturer": "Redmi",
@@ -225,58 +441,6 @@
                "maintainer_link": "https://forum.xda-developers.com/m/chrisw444.11220339/",
                "maintainer_country": "BR",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-redmi-note-11-11-nfc.4544771/"
-          },
-          {
-               "name": "F3",
-               "codename": "alioth",
-               "manufacturer": "POCO",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Beta",
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "omkartheandroid",
-               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
-               "maintainer_country": "IND",
-               "comaintainer_name": "Vitor00",
-               "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
-               "comaintainer_country": "BR",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-poco-f3.4443141/"
-          },
-          {
-               "name": "8T",
-               "codename": "oneplus8t",
-               "manufacturer": "OnePlus",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "33bca",
-               "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
-               "maintainer_country": "CH",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
-          },
-          {
-               "name": "9R",
-               "codename": "oneplus9r",
-               "manufacturer": "OnePlus",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "33bca",
-               "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
-               "maintainer_country": "CH",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
           },
           {
                "name": "Mi 8",
@@ -311,22 +475,6 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-8-pro-explorer-edition.4407105/"
           },
           {
-               "name": "X3 Pro",
-               "codename": "vayu",
-               "manufacturer": "POCO",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "Foxtrot47",
-               "maintainer_link": "https://forum.xda-developers.com/m/foxtrot47.10344183/",
-               "maintainer_country": "IN",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-poco-x3-pro.4408069/"
-          },
-          {
                "name": "Mi 8 Pro",
                "codename": "equuleus",
                "manufacturer": "Xiaomi",
@@ -343,8 +491,8 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-8-pro-explorer-edition.4407105/"
           },
           {
-               "name": "Mi Mix 3",
-               "codename": "perseus",
+               "name": "Mi 10",
+               "codename": "umi",
                "manufacturer": "Xiaomi",
                "supported_versions": [
                     "Sapphire"
@@ -353,60 +501,10 @@
                     "Alpha"
                ],
                "active": true,
-               "maintainer_name": "rtx4d",
-               "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-               "maintainer_country": "RU",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-3.4400743/"
-          },
-          {
-               "name": "Mi Mix 2S",
-               "codename": "polaris",
-               "manufacturer": "Xiaomi",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "rtx4d",
-               "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-               "maintainer_country": "RU",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-2s.4396059/"
-          },
-          {
-               "name": "F1",
-               "codename": "beryllium",
-               "manufacturer": "POCO",
-               "supported_versions": [
-                    "Topaz",
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Beta",
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "REIGNZ3",
-               "maintainer_link": "https://forum.xda-developers.com/m/reignz3.6549853/",
-               "maintainer_country": "IN",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f1.4541311/"
-          },
-          {
-               "name": "X3 | X3 NFC",
-               "codename": "surya",
-               "manufacturer": "POCO",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "chrisw444",
-               "maintainer_link": "https://forum.xda-developers.com/m/chrisw444.11220339/",
-               "maintainer_country": "BR",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-poco-x3-x3-nfc.4383259/"
+               "maintainer_name": "ChaptSand",
+               "maintainer_link": "https://forum.xda-developers.com/m/chaptsand.10891663/",
+               "maintainer_country": "CN",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-xiaomi-mi-10.4370977/"
           },
           {
                "name": "Mi 10T | Mi 10T Pro",
@@ -426,8 +524,28 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-10t-10t-pro.4379539/"
           },
           {
-               "name": "Mi 10",
-               "codename": "umi",
+               "name": "Mi 11X",
+               "codename": "alioth",
+               "manufacturer": "Xiaomi",
+               "supported_versions": [
+                    "Sapphire"
+               ],
+               "supported_types": [
+                    "Beta",
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "omkartheandroid",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "IN",
+               "comaintainer_name": "Vitor00",
+               "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
+               "comaintainer_country": "BR",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-beta-1-poco-f3.4443141/"
+          },
+          {
+               "name": "Mi Mix 2S",
+               "codename": "polaris",
                "manufacturer": "Xiaomi",
                "supported_versions": [
                     "Sapphire"
@@ -436,66 +554,15 @@
                     "Alpha"
                ],
                "active": true,
-               "maintainer_name": "ChaptSand",
-               "maintainer_link": "https://forum.xda-developers.com/m/chaptsand.10891663/",
-               "maintainer_country": "CN",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-xiaomi-mi-10.4370977/"
+               "maintainer_name": "rtx4d",
+               "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
+               "maintainer_country": "RU",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-2s.4396059/"
           },
           {
-               "name": "F2 Pro",
-               "codename": "lmi",
-               "manufacturer": "POCO",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Beta",
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "mickaelmendes50",
-               "maintainer_link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
-               "maintainer_country": "BR",
-               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-sapphire-beta-1-poco-f2-pro.4370679/"
-          },
-          {
-               "name": "9 Pro",
-               "codename": "oneplus9pro",
-               "manufacturer": "OnePlus",
-               "supported_versions": [
-                    "Topaz",
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Beta",
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "vishalcj17",
-               "maintainer_link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
-               "maintainer_country": "IN",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9-pro.4506887/"
-          },
-          {
-               "name": "9",
-               "codename": "oneplus9",
-               "manufacturer": "OnePlus",
-               "supported_versions": [
-                    "Topaz"
-               ],
-               "supported_types": [
-                    "Beta"
-               ],
-               "active": true,
-               "maintainer_name": "vishalcj17",
-               "maintainer_link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
-               "maintainer_country": "IN",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9.4506891/"
-          },
-          {
-               "name": "8 Pro",
-               "codename": "oneplus8pro",
-               "manufacturer": "OnePlus",
+               "name": "Mi Mix 3",
+               "codename": "perseus",
+               "manufacturer": "Xiaomi",
                "supported_versions": [
                     "Sapphire"
                ],
@@ -503,77 +570,10 @@
                     "Alpha"
                ],
                "active": true,
-               "maintainer_name": "33bca",
-               "maintainer_link": "https://forum.xda-developers.com/m/33bca.5296790/",
-               "maintainer_country": "CH",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
-          },
-          {
-               "name": "8",
-               "codename": "oneplus8",
-               "manufacturer": "OnePlus",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "33bca",
-               "maintainer_xda": "https://forum.xda-developers.com/m/33bca.5296790/",
-               "maintainer_country": "CH",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
-          },
-          {
-               "name": "7T",
-               "codename": "oneplus7t",
-               "manufacturer": "OnePlus",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Beta",
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "timo_capa",
-               "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
-               "maintainer_country": "DE",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7t.4379529/"
-          },
-          {
-               "name": "7T Pro",
-               "codename": "oneplus7tpro",
-               "manufacturer": "OnePlus",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Beta", 
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "timo_capa",
-               "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
-               "maintainer_country": "DE",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-oneplus-7t-pro.4370669/"
-          },
-          {
-               "name": "7 Pro",
-               "codename": "oneplus7pro",
-               "manufacturer": "OnePlus",
-               "supported_versions": [
-                    "Sapphire"
-               ],
-               "supported_types": [
-                    "Beta",
-                    "Alpha"
-               ],
-               "active": true,
-               "maintainer_name": "timo_capa",
-               "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
-               "maintainer_country": "DE",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
+               "maintainer_name": "rtx4d",
+               "maintainer_link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
+               "maintainer_country": "RU",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-3.4400743/"
           }
      ]
 }
