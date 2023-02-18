@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-02-17",
+      "datetime": "1676592000",
+      "filename": "aospa-topaz-1-beryllium-20230217.zip",
+      "url": "https://pixeldrain.com/api/file/Y42FUvez",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "b184a263ba6a015c2cbdd8d0685dcfb72fd700c962a0134b1bfc4512293182fb",
+      "size": "1922773621",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Initial stable release"
+    },
+    {
       "date": "2023-01-12",
       "datetime": "1673537118",
       "filename": "aospa-topaz-beta-1-beryllium-20230112.zip",
