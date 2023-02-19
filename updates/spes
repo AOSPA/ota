@@ -15,7 +15,7 @@
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-02-05",
-      "changelog_device": "Initial Beta Release"
+      "changelog_device": "° Drop Displayfeature\n° Kang missing brightnes overlay definitions to Psyche\n° Fix mic issues with headphones\n° Enable performance mode\n° Label missing wakeup nodes\n° Show 4G icon instead of LTE\n° Update blobs from LA.UM.9.15.2.r1-06000-KAMORTA.QSSI-13.0\n° Update MIUI blobs to V13.0.7.0.SGCMIXM\n° Update system blobs to LA.QSSI.13.0.r1-09000.01-qssi.0\n° Enable single reg feature\n° manifest: system: Update to LA.QSSI.13.0.r1-09100-qssi.0\n °manifest: vendor: Update to LA.VENDOR.1.0.r1-20300-WAIPIO.QSSI13.0\n° Downgrade prebuilt kernel from SPESGlobal V13.0.16.0-A11"
     },
     {
       "date": "2023-01-16",
