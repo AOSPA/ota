@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-02-20",
+      "datetime": "1676851200",
+      "filename": "aospa-topaz-1-oneplus7-20230220.zip",
+      "url": "https://pixeldrain.com/api/file/9GjUCEAR",
+      "fastboot": "https://pixeldrain.com/api/file/U4KYUekP",
+      "mirror": "",
+      "telegram": "",
+      "id": "7ce56e0ecc6844930e612caaa6d562a23987e5de9773b40340c47ac5e2d6f258",
+      "size": "1827988983",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Initial stable release"
+    }
+  ]
+}

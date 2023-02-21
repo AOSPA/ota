@@ -144,9 +144,11 @@
                "codename": "oneplus7t",
                "manufacturer": "OnePlus",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta",
                     "Alpha"
                ],
@@ -154,16 +156,18 @@
                "maintainer_name": "timo_capa",
                "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
                "maintainer_country": "DE",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7t.4379529/"
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-oneplus-7t.4556709/"
           },
           {
                "name": "7T Pro",
                "codename": "oneplus7tpro",
                "manufacturer": "OnePlus",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta",
                     "Alpha"
                ],
@@ -171,16 +175,34 @@
                "maintainer_name": "timo_capa",
                "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
                "maintainer_country": "DE",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-oneplus-7t-pro.4370669/"
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-oneplus-7t-pro.4556711/"
+          },
+          {
+               "name": "7",
+               "codename": "oneplus7",
+               "manufacturer": "OnePlus",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "timo_capa",
+               "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
+               "maintainer_country": "DE",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-oneplus-7.4556699/"
           },
           {
                "name": "7 Pro",
                "codename": "oneplus7pro",
                "manufacturer": "OnePlus",
                "supported_versions": [
+                    "Topaz",
                     "Sapphire"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta",
                     "Alpha"
                ],
@@ -188,7 +210,7 @@
                "maintainer_name": "timo_capa",
                "maintainer_link": "https://forum.xda-developers.com/m/timo_capa.6294411/",
                "maintainer_country": "DE",
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-7-pro.4379533/"
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-oneplus-7-pro.4556705/"
           },
           {
                "name": "8",
