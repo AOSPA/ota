@@ -1,6 +1,25 @@
 {
      "devices": [
           {
+               "name": "Zenfone 9",
+               "codename": "davinci",
+               "manufacturer": "Asus",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Alpha"
+               ],
+               "active": true,
+               "maintainer_name": "Androbots",
+               "maintainer_link": "https://forum.xda-developers.com/m/androbots.6227858/",
+               "maintainer_country": "US",
+               "comaintainer_name": "ggpew2",
+               "comaintainer_link": "https://forum.xda-developers.com/m/ggpew2.8433517/",
+               "comaintainer_country": "US",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-google-pixel-6.4506075/"
+          },
+          {
                "name": "Pixel 6",
                "codename": "oriole",
                "manufacturer": "Google",

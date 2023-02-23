@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-02-20",
+      "datetime": "META-INF/com/android/metadata",
+      "filename": "aospa-topaz-alpha-1-davinci-20230220.zip",
+      "url": "https://pixeldrain.com/api/file/1pDFKEhN",
+      "fastboot": "https://pixeldrain.com/api/file/e5G3T6K8",
+      "mirror": "",
+      "telegram": "",
+      "id": "3c0fb040114085acfba14f2c4b0566e4b5c7b5f52c96b881b2ff26e23df19e7f",
+      "size": "2026859409",
+      "build_type": "Alpha",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Initial Alpha Release"
+    }
+   ]
+}
