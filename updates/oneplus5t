@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-21",
+      "datetime": "1682027856",
+      "filename": "aospa-topaz-2-oneplus5t-20230420.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-oneplus5t-20230420.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-oneplus5t-20230420-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "5670ee804f87cfb9091b635f70376fd57b7b36a09939e7d9102f4f6769bc687b",
+      "size": "1663795050",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "Added DC Dimming, Fixed Wi-Fi Display"
+    },
+    {
       "date": "2023-02-21",
       "datetime": "1676937600",
       "filename": "aospa-topaz-1-oneplus5t-20230221.zip",
