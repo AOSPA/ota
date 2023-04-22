@@ -335,7 +335,7 @@
                "maintainer_country": "CH",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
           },
-         {
+          {
                "name": "F1",
                "codename": "beryllium",
                "manufacturer": "POCO",
@@ -489,6 +489,70 @@
                "maintainer_link": "https://forum.xda-developers.com/m/themalachite.9609718/",
                "maintainer_country": "FR",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-realme-x50-pro-5g.4542397/"
+          },
+          {
+               "name": "7A",
+               "codename": "mi439",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "jprimero15",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "PH",
+               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-redmi-7a-8-8a-8a-dual-mi439.4578293/"
+          },
+          {
+               "name": "8",
+               "codename": "mi439",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "jprimero15",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "PH",
+               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-redmi-7a-8-8a-8a-dual-mi439.4578293/"
+          },
+          {
+               "name": "8A",
+               "codename": "mi439",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "jprimero15",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "PH",
+               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-redmi-7a-8-8a-8a-dual-mi439.4578293/"
+          },
+          {
+               "name": "8A Dual",
+               "codename": "mi439",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "jprimero15",
+               "maintainer_link": "https://forum.xda-developers.com/m/omkartheandroid.5252623/",
+               "maintainer_country": "PH",
+               "xda_thread": "https://forum.xda-developers.com/t/rom-official-paranoid-android-topaz-stable-redmi-7a-8-8a-8a-dual-mi439.4578293/"
           },
           {
                "name": "K30 Pro",
