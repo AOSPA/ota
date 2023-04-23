@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-23",
+      "datetime": " 1682208000",
+      "filename": "aospa-topaz-2-phone1-20230423.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-phone1-20230423.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-phone1-20230423-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "74E71F141F15771EDA0F946B3FB54DF04BC4AA2C0359F7EA573673645C9D53B6",
+      "size": "1818547337",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-045-05",
+      "changelog_device": "Updated to lastest kernel sources, Added call and notifications patterns, Added Music Visualizer / Disco Mode to Glyph, Performance improvements and bug fixes."
+    },
+    {
       "date": "2023-02-17",
       "datetime": " 1676592000",
       "filename": "aospa-topaz-1-phone1-20230217.zip",
