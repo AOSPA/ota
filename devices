@@ -760,6 +760,22 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-redmi-note-11-11-nfc.4544771/"
           },
           {
+               "name": "11 Lite NE",
+               "codename": "lisa",
+               "manufacturer": "Xiaomi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "Adithya R",
+               "maintainer_link": "https://forum.xda-developers.com/m/adithya-r.6560166/",
+               "maintainer_country": "IN",
+               "xda_thread": "?????"
+          },
+          {
                "name": "Mi 8",
                "codename": "dipper",
                "manufacturer": "Xiaomi",

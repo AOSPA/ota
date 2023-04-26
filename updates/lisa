@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-04-26",
+      "datetime": "1682391678",
+      "filename": "aospa-topaz-1-lisa-20230425.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-lisa-20230425.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-lisa-20230425-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "ba4e88654b32acd64d276e39f590d7ddcd7779f159c93b26c93e2cdb9b69d9dd",
+      "size": "2014779350",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "Initial Release"
+    }
+  ]
+}
