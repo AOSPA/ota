@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-04-27",
+      "datetime": "1682543403",
+      "filename": "aospa-topaz-1-munch-20230426.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-munch-20230426.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-munch-20230426-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "4fa0af6122fa93f64bec16754da7ecf3fd2e99579fb9478f9aecdd92fd736336",
+      "size": "1928462513",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "Initial Release"
+    }
+  ]
+}

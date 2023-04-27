@@ -396,6 +396,22 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f3-mi-11x-redmi-k40.4546683/"
           },
           {
+               "name": "F4",
+               "codename": "munch",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "madmax7896",
+               "maintainer_link": "https://forum.xda-developers.com/m/madmax7896.10944401/",
+               "maintainer_country": "?????",
+               "xda_thread": "?????"
+          },
+          {
                "name": "M2 Pro",
                "codename": "miatoll",
                "manufacturer": "POCO",
@@ -646,6 +662,22 @@
                "comaintainer_link": "https://forum.xda-developers.com/m/vitor00.7824261/",
                "comaintainer_country": "BR",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f3-mi-11x-redmi-k40.4546683/"
+          },
+          {
+               "name": "K40S",
+               "codename": "munch",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "madmax7896",
+               "maintainer_link": "https://forum.xda-developers.com/m/madmax7896.10944401/",
+               "maintainer_country": "?????",
+               "xda_thread": "?????"
           },
           {
                "name": "Note 9 Pro Global",
