@@ -15,7 +15,7 @@
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-04-05",
-      "changelog_device": "Initial Stable Release"
+      "changelog_device": "Initial Stable Release\n**Note: MIUI 14 Firmware is required**"
     },
     {
       "date": "2023-01-25",
