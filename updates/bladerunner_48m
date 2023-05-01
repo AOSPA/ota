@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-04-27",
+      "datetime": "1677039921",
+      "filename": "aospa-topaz-1-bladerunner_48m-20230427.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-bladerunner_48m-20230427.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-bladerunner_48m-20230427-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "470773D3E8ECB97124BE5CF9F908B59A1C3044BBA635F3E40A2CE062FA07490F",
+      "size": "2633906553",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "First stable release"
+    }
+   ]
+}

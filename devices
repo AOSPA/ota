@@ -509,6 +509,22 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-realme-gt-neo2-5g.4542395/"
           },
           {
+               "name": "X50 Pro 5G Play",
+               "codename": "bladerunner_48m",
+               "manufacturer": "realme",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "TheMalachite",
+               "maintainer_link": "https://forum.xda-developers.com/m/themalachite.9609718/",
+               "maintainer_country": "FR",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-realme-x50-pro-5g.4542397/"
+          },
+          {
                "name": "X50 Pro 5G",
                "codename": "bladerunner",
                "manufacturer": "realme",
@@ -516,6 +532,7 @@
                     "Topaz"
                ],
                "supported_types": [
+                    "Stable",
                     "Beta"
                ],
                "active": true,
