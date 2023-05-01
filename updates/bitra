@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-27",
+      "datetime": "1682553600",
+      "filename": "aospa-topaz-1-bitra-20230427.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-bitra-20230427.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-bitra-20230427-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "E55D9C5578AEBA0D9E7B507D4FF16ACAC643F4B48A1A6DEDD517AB5616DB04BE",
+      "size": "2633906553",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "First stable release"
+    },
+    {
       "date": "2023-02-22",
       "datetime": "1677043356",
       "filename": "aospa-topaz-beta-2-bitra-20230222.zip",
