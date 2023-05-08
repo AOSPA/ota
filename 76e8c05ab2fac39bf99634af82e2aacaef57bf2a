@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ae147a94_9286e806",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-05-08T11:56:08Z",
+      "side": 1,
+      "message": "since I don\u0027t actually own the device, I would prefer not to be listed as maintainer. I will still provide help and insight whenever needed",
+      "revId": "76e8c05ab2fac39bf99634af82e2aacaef57bf2a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
