@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-11",
+      "datetime": "1683763200",
+      "filename": "aospa-topaz-3-oneplus7tpro-20230418.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-oneplus7tpro-20230511.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-3-oneplus7tpro-20230511-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "4a489869de71c5d475987e727463d93d4896a0169fe1073cfdddf60e54ed1ab8",
+      "size": "1847483688",
+      "build_type": "Stable",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Improved autobrightness, less aggressive vrr, battery and performance improvements"
+    },
+    {
       "date": "2023-04-21",
       "datetime": "1681852283",
       "filename": "aospa-topaz-2-oneplus7tpro-20230418.zip",
