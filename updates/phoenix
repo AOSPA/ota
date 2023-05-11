@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-05-10",
+      "datetime": " 1683676800",
+      "filename": "aospa-topaz-1-phoenix-20230510.zip",
+      "url": "http://builds.paranoidandroid.co/aospa-topaz-1-phoenix-20230510.zip",
+      "fastboot": "http://builds.paranoidandroid.co/aospa-topaz-1-phoenix-20230510-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "36df233209b1235645a900a1d52e4f5d1d6a962536d058cd45ec85c657508714",
+      "size": "2006859272",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "First stable release"
+    }
+  ]
+}

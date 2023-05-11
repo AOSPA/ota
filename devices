@@ -443,6 +443,22 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-m3.4578313/"
           },
           {
+               "name": "X2",
+               "codename": "phoenix",
+               "manufacturer": "POCO",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "malvigagan",
+               "maintainer_link": "https://forum.xda-developers.com/m/malvigagan.8323550/",
+               "maintainer_country": "IN",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-redmi-k30-poco-x2.4508181/"
+          },
+          {
                "name": "X3",
                "codename": "surya",
                "manufacturer": "POCO",
@@ -620,6 +636,22 @@
                "maintainer_link": "https://forum.xda-developers.com/m/shelbyhell.12536597/",
                "maintainer_country": "RU",
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-redmi-9t.4578317/"
+          },
+          {
+               "name": "K30",
+               "codename": "phoenix",
+               "manufacturer": "Redmi",
+               "supported_versions": [
+                    "Topaz"
+               ],
+               "supported_types": [
+                    "Stable"
+               ],
+               "active": true,
+               "maintainer_name": "malvigagan",
+               "maintainer_link": "https://forum.xda-developers.com/m/malvigagan.8323550/",
+               "maintainer_country": "IN",
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-redmi-k30-poco-x2.4508181/"
           },
           {
                "name": "K30 Pro",
