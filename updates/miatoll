@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-12",
+      "datetime": "1683788417",
+      "filename": "aospa-topaz-3-miatoll-20230511.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-3-miatoll-20230511.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "57edca053f684bba1d97de4295858d9b1939ba887a78a0191220aa72a0ca32cc",
+      "size": "2048110333",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "Performance and battery improvements"
+    }
+    {
       "date": "2023-02-18",
       "datetime": "1676747126",
       "filename": "aospa-topaz-1-miatoll-20230218.zip",
