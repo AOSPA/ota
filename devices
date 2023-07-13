@@ -264,7 +264,7 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
           },
           {
-               "name": "9",
+               "name": "9 / 9 Pro",
                "codename": "oneplus9",
                "manufacturer": "OnePlus",
                "active": true,
@@ -273,23 +273,14 @@
                          "name": "vishalcj17",
                          "link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
                          "country": "IN"
+                    },
+                    {
+                         "name": "arter97",
+                         "link": "https://forum.xda-developers.com/m/arter97.4898097/",
+                         "country": "KOR"
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9.4506891/"
-          },
-          {
-               "name": "9 Pro",
-               "codename": "oneplus9pro",
-               "manufacturer": "OnePlus",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "vishalcj17",
-                         "link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
-                         "country": "IN"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9-pro.4506887/"
           },
           {
                "name": "9R",
