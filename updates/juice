@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-07-14",
+      "datetime": "1689272135",
+      "filename": "aospa-topaz-beta-3-juice-20230713.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-3-juice-20230713.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-3-juice-20230713-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "2f2354e05e1ddf1e18f34dce7e4ad4307a353859cebfb767f93fc6882c2867d7",
+      "size": "2296652994",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Improved performance, Implemented Power Off Alarm, Updated GPS stack"
+    },
+    {
       "date": "2023-05-11",
       "datetime": "1683709766",
       "filename": "aospa-topaz-beta-2-juice-20230510.zip",
