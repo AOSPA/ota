@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-14",
+      "datetime": "1689292800",
+      "filename": "aospa-topaz-4-beryllium-20230713.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-4-beryllium-20230713.zip",
+      "recovery_sha256": "c3a9adcf050b3c22ebdcd62352afc8b7f5f8681c35472ca765165ac6dfca5238",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-4-beryllium-20230713-image.zip",
+      "fastboot_sha256": "fc51e1055e5604dab570432a1a6748184858b7f504a19e93a457fa99070ad357",
+      "mirror": "",
+      "telegram": "",
+      "id": "c3a9adcf050b3c22ebdcd62352afc8b7f5f8681c35472ca765165ac6dfca5238",
+      "size": "2001286013",
+      "version": "Topaz",
+      "build_type": "Stable",
+      "version_code": "3",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Fixed crackling audio issue"
+    },
+    {
       "date": "2023-05-10",
       "datetime": "1683678447",
       "filename": "aospa-topaz-3-beryllium-20230510.zip",
