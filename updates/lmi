@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-07-22",
+      "datetime": "1689999101",
+      "filename": "aospa-topaz-4-lmi-20230722.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-4-lmi-20230722.zip",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-4-lmi-20230722-image.zip",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-4",
+      "size": "2617902500",
+      "build_type": "Stable",
+      "version_code": "4",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Updated Camera Blobs to MIUI Global V14.0.1.0.SJKMIXM, Added MIUI Camera, Added PowerOff Alarm Capability, Switched to AOSP Pickup Gesture, Major Fixes and Improvements"
+    },
+    {
       "date": "2023-05-10",
       "datetime": "1683472354",
       "filename": "aospa-topaz-3-lmi-20230507.zip",
