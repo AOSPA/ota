@@ -16,6 +16,24 @@
       "message": "Not latest layout, please use this one\n\n{\n      \"date\": \"\",\n      \"datetime\": \"\",\n      \"filename\": \"\",\n      \"url\": \"\",\n      \"recovery_sha256\": \"\",\n      \"fastboot\": \"\",\n      \"fastboot_sha256\": \"\",\n      \"mirror\": \"\",\n      \"telegram\": \"\",\n      \"id\": \"\",\n      \"size\": \"\",\n      \"build_type\": \"\",\n      \"version_code\": \"\",\n      \"version\": \"\",\n      \"android_version\": \"\",\n      \"android_spl\": \"\",\n      \"changelog_device\": \"\"\n    },",
       "revId": "8422976865e395f93b7454d8f934a4d523db3dc3",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5c0ed10_237a57d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-07-23T02:08:51Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f6d3bdf7_24992b50",
+      "revId": "8422976865e395f93b7454d8f934a4d523db3dc3",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
