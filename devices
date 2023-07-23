@@ -328,12 +328,12 @@
                "name": "F3",
                "codename": "alioth",
                "manufacturer": "POCO",
-               "active": false,
+               "active": true,
                "maintainers": [
                     {
-                         "name": "GKAndroid",
-                         "link": "https://forum.xda-developers.com/m/gkandroid.12555403/",
-                         "country": "IN"
+                         "name": "mickaelmendes50",
+                         "link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
+                         "country": "BR"
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f3-mi-11x-redmi-k40.4546683/"
@@ -580,12 +580,12 @@
                "name": "K40",
                "codename": "alioth",
                "manufacturer": "Redmi",
-               "active": false,
+               "active": true,
                "maintainers": [
                     {
-                         "name": "GKAndroid",
-                         "link": "https://forum.xda-developers.com/m/gkandroid.12555403/",
-                         "country": "IN"
+                         "name": "mickaelmendes50",
+                         "link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
+                         "country": "BR"
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f3-mi-11x-redmi-k40.4546683/"
@@ -780,12 +780,12 @@
                "name": "Mi 11X",
                "codename": "alioth",
                "manufacturer": "Xiaomi",
-               "active": false,
+               "active": true,
                "maintainers": [
                     {
-                         "name": "GKAndroid",
-                         "link": "https://forum.xda-developers.com/m/gkandroid.12555403/",
-                         "country": "IN"
+                         "name": "mickaelmendes50",
+                         "link": "https://forum.xda-developers.com/m/mickaelmendes50.7258823/",
+                         "country": "BR"
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-poco-f3-mi-11x-redmi-k40.4546683/"
