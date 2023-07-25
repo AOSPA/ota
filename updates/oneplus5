@@ -1,23 +1,23 @@
 {
   "updates": [
     {
-      "date": "2023-07-07",
-      "datetime": "1688688000",
-      "filename": "aospa-topaz-5-oneplus5-20230707.zip",
-      "url": "https://builds.paranoidandroid.co/aospa-topaz-5-oneplus5-20230707.zip",
-      "recovery_sha256": "cea4233029e25d4420d2a6352bf0087fcdd4303ed9d7dbe9ee4462224c8fe34d",
-      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-5-oneplus5-20230707-image.zip",
-      "fastboot_sha256": "052c19c5a6b6d5062da666158d936dfb1bb8e8604316a9b935966f4f259c3dbf",
+      "date": "2023-07-23",
+      "datetime": "1690070400",
+      "filename": "aospa-topaz-6-oneplus5-20230723.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-6-oneplus5-20230723.zip",
+      "recovery_sha256": "1fa056114d8c89b16ca6edf83984caa2b4da460c40fdd7378ed3d84fa065630c",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-6-oneplus5-20230723-image.zip",
+      "fastboot_sha256": "c49870577a945afbd867d0082fb740467763d85edf1e0d546b9b30dadcac9e91",
       "mirror": "",
       "telegram": "",
-      "id": "topaz-stable-5",
-      "size": "1675839277",
+      "id": "topaz-stable-6",
+      "size": "1672498064",
       "build_type": "Stable",
-      "version_code": "5",
+      "version_code": "6",
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-07-05",
-      "changelog_device": "Update GPS code base"
+      "changelog_device": "Dropped media component, Fixed image rendering on some cases (like instagram), Disable ringing gesture."
     },
     {
       "date": "2023-06-25",

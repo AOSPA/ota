@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-07-23",
+      "datetime": "1690070400",
+      "filename": "aospa-topaz-6-oneplus5t-20230723.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-6-oneplus5t-20230723.zip",
+      "recovery_sha256": "cba4045d1cf9b504da0b2e283c44b67ca1ccddb8e0d5a9db26844fc0fa12b50e",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-6-oneplus5t-20230723-image.zip",
+      "fastboot_sha256": "2f233835a7983afe3ff8c9ef5ef41288f199db6a0721a37028590c7d90c09776",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-6",
+      "size": "1669354957",
+      "build_type": "Stable",
+      "version_code": "6",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "Dropped media component, Fixed image rendering on some cases (like instagram), Disable ringing gesture."
+    },
+    {
       "date": "2023-07-07",
       "datetime": "1688688000",
       "filename": "aospa-topaz-5-oneplus5t-20230707.zip",
