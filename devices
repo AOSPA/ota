@@ -395,6 +395,20 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-redmi-k30-poco-x2.4508181/"
           },
           {
+               "name": "X3 / X3 NFC",
+               "codename": "surya",
+               "manufacturer": "POCO",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "chrisw444",
+                         "link": "https://forum.xda-developers.com/m/chrisw444.11220339/",
+                         "country": "BR"
+                    }
+               ],
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-stable-1-poco-x3-x3-nfc-karna-surya.4605809/"
+          },
+          {
                "name": "X3 Pro",
                "codename": "vayu",
                "manufacturer": "POCO",
