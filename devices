@@ -129,7 +129,7 @@
           },
           {
                "name": "5",
-               "codename": "oneplus5",
+               "codename": "cheeseburger",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -148,7 +148,7 @@
           },
           {
                "name": "5T",
-               "codename": "oneplus5t",
+               "codename": "dumpling",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -167,7 +167,7 @@
           },
           {
                "name": "7T",
-               "codename": "oneplus7t",
+               "codename": "hotdogb",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -181,7 +181,7 @@
           },
           {
                "name": "7T Pro",
-               "codename": "oneplus7tpro",
+               "codename": "hotdog",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -195,7 +195,7 @@
           },
           {
                "name": "7",
-               "codename": "oneplus7",
+               "codename": "guacamoleb",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -209,7 +209,7 @@
           },
           {
                "name": "7 Pro",
-               "codename": "oneplus7pro",
+               "codename": "guacamole",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -223,7 +223,7 @@
           },
           {
                "name": "8",
-               "codename": "oneplus8",
+               "codename": "instantnoodle",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -237,7 +237,7 @@
           },
           {
                "name": "8T",
-               "codename": "oneplus8t",
+               "codename": "kebab",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -251,7 +251,7 @@
           },
           {
                "name": "8 Pro",
-               "codename": "oneplus8pro",
+               "codename": "instantnoodlep",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -264,8 +264,27 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
           },
           {
-               "name": "9 / 9 Pro",
-               "codename": "oneplus9",
+               "name": "9",
+               "codename": "lemonade",
+               "manufacturer": "OnePlus",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "vishalcj17",
+                         "link": "https://forum.xda-developers.com/m/vishalcj17.9720197/",
+                         "country": "IN"
+                    },
+                    {
+                         "name": "arter97",
+                         "link": "https://forum.xda-developers.com/m/arter97.4898097/",
+                         "country": "KOR"
+                    }
+               ],
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-oneplus-9.4506891/"
+          },
+                    {
+               "name": "9 Pro",
+               "codename": "lemonadep",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
@@ -284,7 +303,7 @@
           },
           {
                "name": "9R",
-               "codename": "oneplus9r",
+               "codename": "lemonades",
                "manufacturer": "OnePlus",
                "active": true,
                "maintainers": [
