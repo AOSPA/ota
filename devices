@@ -845,6 +845,25 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-3.4400743/"
+          },
+          {
+               "name": "GT2",
+               "codename": "porsche",
+               "manufacturer": "realme",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "kunmun36",
+                         "link": "https://forum.xda-developers.com/m/kunmun36.12667599/",
+                         "country": "IN"
+                    },
+                    {
+                         "name": "xyz_sourav",
+                         "link": "https://forum.xda-developers.com/m/xyz_sourav.11956971/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-realme-gt-2.4616375/"
           }
      ]
 }
