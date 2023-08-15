@@ -1,9 +1,28 @@
 {
   "updates": [
     {
+      "date": "2023-08-14",
+      "datetime": "1691971200",
+      "filename": "aospa-topaz-beta-3-sunny-20230814.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-3-sunny-20230814.zip",
+      "recovery_sha256": "bebd01e46d426bd8473211e438a37dd682ffdb6406b158cd059b93fe1411be30",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-3-sunny-20230814-image.zip",
+      "fastboot_sha256": "13e024f5daebb28d77649f4e2a13d03316cb7b672cdecd447f9b7123440ad32e",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-beta-3",
+      "size": "2037538739",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-08-05",
+      "changelog_device": "Inherited alarm component to fix PowerOffAlarm, Imported missing DRM blobs to fix Widevine L1."
+    },
+    {
       "date": "2023-07-22",
       "datetime": "1689934177",
-      "filename": "aospa-topaz-beta-2-sunny-202307222.zip",
+      "filename": "aospa-topaz-beta-2-sunny-20230722.zip",
       "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-2-sunny-20230722.zip",
       "recovery_sha256": "2309198d1bfe1b51619f7442691c783a272a158cd4cf1691f2046c652c97fd82",
       "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-2-sunny-20230722-image.zip",
@@ -17,7 +36,7 @@
       "version": "Topaz",
       "android_version": "13",
       "android_spl": "2023-07-05",
-      "changelog_device": "Fix IR, Fix Dual Sim Selection, Update blobs from LA.UM.9.1.r1-12900-SMxxx0.0, Merge LA.UM.9.1.r1-12900-SMxxx0.0 in kernel, Update F2FS from f2fs-stable."
+      "changelog_device": "Fixed IR, Fixed Dual Sim Selection, Updated blobs from LA.UM.9.1.r1-12900-SMxxx0.0, Merged LA.UM.9.1.r1-12900-SMxxx0.0 in kernel, Updated F2FS from f2fs-stable."
     },
     {
       "date": "2023-05-26",
