@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2023-09-18",
+      "datetime": "1695032611",
+      "filename": "aospa-topaz-5-mi439-20230918.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-5-mi439-20230918.zip",
+      "recovery_sha256": "3343626d9175ae90ee3f486cdbd4d1a4ade9ae026e38dcceea8a18201938dca7",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-4",
+      "size": "1737270763",
+      "build_type": "Stable",
+      "version_code": "5",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "Handle device specific files with OverlayFS, audio: add missing input profile format, media: fintune perf xml, rootdir: Minor cleanups, prop: Update media props from LA.UM.9.6.4.r1-05100-89xx.QSSI13.0, Display HAL: Merged LA.UM.9.6.4.r1-05100-89xx.QSSI13.0, kernel: Upstream WLAN to LA.UM.9.6.4.r1-05100-89xx.QSSI13.0, kernel: Removed CAF's PPR changes, Added audiosphere effect support, Bring back QTI datastatusnotification, Import CaCert Service blobs, Fixed Recognize link when long pressed, Added read_ahead_kb tweaks, Get some perfconfigstore changes from bengal, etc"
+    },
+    {
       "date": "2023-08-12",
       "datetime": "1691873173",
       "filename": "aospa-topaz-4-mi439-20230812.zip",
