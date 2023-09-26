@@ -1,6 +1,25 @@
 {
   "updates":[
     {
+      "date": "2023-09-25",
+      "datetime": "1695669745",
+      "filename": "aospa-topaz-1.1-porsche-20230925.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1.1-porsche-20230925.zip",
+      "recovery_sha256": "896bad188a1f01d154ec938d358f304bf0b720344d99739248f0b5059a97b4e0",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-1.1",
+      "size": "2272155716",
+      "build_type": "Stable",
+      "version_code": "1.1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-09-05",
+      "changelog_device": "Fix Audio Crackling Issues And Mic Issues"
+    },
+    {
       "date": "2023-09-19",
       "datetime": "1695161118",
       "filename": "aospa-topaz-1-porsche-20230919.zip",
