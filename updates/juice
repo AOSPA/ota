@@ -1,5 +1,24 @@
 {
   "updates": [
+   {
+      "date": "2023-10-08",
+      "datetime": "1696793556",
+      "filename": "aospa-topaz-beta-5-juice-20231008.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-beta-5-juice-20231008.zip",
+      "recovery_sha256": "6192927b836ede336153c910f3f82dae0d87312893d830aec814c5afd4be8d53",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-beta-5-juice-20231008-image.zip",
+      "fastboot_sha256": "776c26db670f338e19fdffddd3521b5a53e61d8a3fc55432e53ce968775e7ea7",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-beta-5",
+      "size": "2296703858",
+      "build_type": "Beta",
+      "version_code": "5",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-10-05",
+      "changelog_device": "Improved performance, October security patch, Switch back to adreno, charging components"
+    },
     {
       "date": "2023-08-13",
       "datetime": "1691869098",
