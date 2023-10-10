@@ -16,6 +16,40 @@
       "message": "need code review",
       "revId": "e1d5544e695080ab2088c587f06c24bfd8f5277f",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f6efa3ea_02830ffa",
+        "filename": "updates/juice",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-10-10T13:39:33Z",
+      "side": 1,
+      "message": "why skip fastboot on this one?",
+      "revId": "e1d5544e695080ab2088c587f06c24bfd8f5277f",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "060b633f_bfc71865",
+        "filename": "updates/juice",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-10-10T13:39:33Z",
+      "side": 1,
+      "message": "changes in the json are comma separated.  see the previous one.",
+      "revId": "e1d5544e695080ab2088c587f06c24bfd8f5277f",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
