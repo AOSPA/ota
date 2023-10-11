@@ -1,0 +1,23 @@
+{
+  "updates": [
+    {
+      "date": "2023-10-10",
+      "datetime": "1696920899",
+      "filename": "aospa-topaz-1-marble-20231010.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-marble-20231010.zip",
+      "recovery_sha256": "aff8787b5266ba5ee4ceda72da3abd3d5224494b138ea0671589d73e9ea14a8e",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-marble-20231010-image.zip",
+      "fastboot_sha256": "0e7613225de2809065fb0cbfc5edf5ebbd3b59121ba2aa3f406108de12306ce1",
+      "mirror": "",
+      "telegram": "",
+      "id": "topaz-stable-1",
+      "size": "2760399230",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-10-05",
+      "changelog_device": "Initial stable release"
+    }
+  ]
+}

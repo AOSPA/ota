@@ -892,6 +892,34 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-alpha-1-xiaomi-13.4630549/"
+          },
+          {
+               "name": "F5",
+               "codename": "marble",
+               "manufacturer": "POCO",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "ghostrider_reborn",
+                         "link": "https://forum.xda-developers.com/m/adithya-r.6560166/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": ""
+          },
+          {
+               "name": "Note 12 Turbo",
+               "codename": "marble",
+               "manufacturer": "Redmi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "ghostrider_reborn",
+                         "link": "https://forum.xda-developers.com/m/adithya-r.6560166/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": ""
           }
      ]
 }
