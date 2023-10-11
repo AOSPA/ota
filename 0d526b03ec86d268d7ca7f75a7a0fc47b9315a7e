@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5e8d08ff_069b183e",
+        "filename": "updates/alioth",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-10-11T15:35:42Z",
+      "side": 1,
+      "message": "date",
+      "revId": "0d526b03ec86d268d7ca7f75a7a0fc47b9315a7e",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
