@@ -18,53 +18,6 @@
       "android_version": "13",
       "android_spl": "2023-09-05",
       "changelog_device": "Fixed disable proximity sensor on AOD, Fixed GPS issues, Fixed DRM issues, Enabled HDR10 in Netflix, Fixed system issues"
-    },
-    {
-      "date": "2023-07-27",
-      "datetime": "1690416000",
-      "filename": "aospa-topaz-2-surya-20230727.zip",
-      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-surya-20230727.zip",
-      "recovery_sha256": "07b0b3430f40ebf4d237e98fc8e2f0da99f7d3ebd92b4893f4c8c8bd9226f387",
-      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-surya-20230727-image.zip",
-      "fastboot_sha256": "bdfdefd373300c391a9f7d53b30e98b991998aeb3abcdcae3b630d26904b2719",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-stable-2",
-      "size": "2327021085",
-      "build_type": "Stable",
-      "version_code": "2",
-      "version": "Topaz",
-      "android_version": "13",
-      "android_spl": "2023-07-05",
-      "changelog_device": "Fixed fastboot flash issue, Fixed gps and fingerprint in some rare cases, Updated kernel to LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0 and Linux to 4.14.320"
-    },
-    {
-      "date": "2022-02-06",
-      "datetime": "1645142400",
-      "filename": "aospa-sapphire-2-surya-alpha-20220206.zip",
-      "url": "https://github.com/aospa-releases/surya/releases/download/sapphire-alpha-2/aospa-sapphire-2-surya-alpha-20220206.zip",
-      "id": "sapphire-alpha-2",
-      "size": "1722594444",
-      "build_type": "Alpha",
-      "version_code": "2",
-      "version": "Sapphire", 
-      "android_version": "12",
-      "android_spl": "2022-02-05",
-      "changelog_device": ""
-    },
-    {
-      "date": "2022-01-03",
-      "datetime": "1641168000",
-      "filename": "aospa-sapphire-1-surya-alpha-20220103.zip",
-      "url": "https://github.com/aospa-releases/surya/releases/download/sapphire-alpha-1/aospa-sapphire-1-surya-alpha-20220103.zip",
-      "id": "sapphire-alpha-1",
-      "size": "1671903827",
-      "build_type": "Alpha",
-      "version_code": "1",
-      "version": "Sapphire", 
-      "android_version": "12",
-      "android_spl": "2021-012-05",
-      "changelog_device": ""
     }
   ]
 }

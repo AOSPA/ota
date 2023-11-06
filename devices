@@ -222,48 +222,6 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-oneplus-7.4556699/"
           },
           {
-               "name": "8",
-               "codename": "oneplus8",
-               "manufacturer": "OnePlus",
-               "active": true,
-               "maintainers": [
-                    {
-                    "name": "33bca",
-                    "link": "https://forum.xda-developers.com/m/33bca.5296790/",
-                    "country": "CH"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
-          },
-          {
-               "name": "8T",
-               "codename": "oneplus8t",
-               "manufacturer": "OnePlus",
-               "active": true,
-               "maintainers": [
-                    {
-                    "name": "33bca",
-                    "link": "https://forum.xda-developers.com/m/33bca.5296790/",
-                    "country": "CH"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
-          },
-          {
-               "name": "8 Pro",
-               "codename": "oneplus8pro",
-               "manufacturer": "OnePlus",
-               "active": true,
-               "maintainers": [
-                    {
-                    "name": "33bca",
-                    "link": "https://forum.xda-developers.com/m/33bca.5296790/",
-                    "country": "CH"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-3-oneplus-8-t-pro-9r.4368039/"
-          },
-          {
                "name": "9 / 9 Pro",
                "codename": "oneplus9",
                "manufacturer": "OnePlus",
@@ -707,62 +665,6 @@
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-beta-1-redmi-note-11-11-nfc.4544771/"
           },
           {
-               "name": "Mi 8",
-               "codename": "dipper",
-               "manufacturer": "Xiaomi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "rtx4d",
-                         "link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-                         "country": "RU"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-8.4396061/"
-          },
-          {
-               "name": "Mi 8 Explorer Edition",
-               "codename": "ursa",
-               "manufacturer": "Xiaomi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "rtx4d",
-                         "link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-                         "country": "RU"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-8-pro-explorer-edition.4407105/"
-          },
-          {
-               "name": "Mi 8 Pro",
-               "codename": "equuleus",
-               "manufacturer": "Xiaomi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "rtx4d",
-                         "link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-                         "country": "RU"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-1-xiaomi-mi-8-pro-explorer-edition.4407105/"
-          },
-          {
-               "name": "Mi 10",
-               "codename": "umi",
-               "manufacturer": "Xiaomi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "ChaptSand",
-                         "link": "https://forum.xda-developers.com/m/chaptsand.10891663/",
-                         "country": "CN"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-xiaomi-mi-10.4370977/"
-          },
-          {
                "name": "Mi 10T / Mi 10T Pro",
                "codename": "apollo",
                "manufacturer": "Xiaomi",
@@ -817,34 +719,6 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-topaz-1-xiaomi-11-lite-ne-5g-mi-11-le-lisa.4579973/"
-          },
-          {
-               "name": "Mi Mix 2S",
-               "codename": "polaris",
-               "manufacturer": "Xiaomi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "rtx4d",
-                         "link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-                         "country": "RU"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-2s.4396059/"
-          },
-          {
-               "name": "Mi Mix 3",
-               "codename": "perseus",
-               "manufacturer": "Xiaomi",
-               "active": true,
-               "maintainers": [
-                    {
-                         "name": "rtx4d",
-                         "link": "https://forum.xda-developers.com/m/rtx4d.6400169/",
-                         "country": "RU"
-                    }
-               ],
-               "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-3.4400743/"
           },
           {
                "name": "GT2",

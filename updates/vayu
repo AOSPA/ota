@@ -16,37 +16,6 @@
       "android_version": "13",
       "android_spl": "2023-05-05",
       "changelog_device": "Fixed FPC Fingerprint, Fixed Random Reboots in deep sleep state, Fixed Voice over LTE, Set hotspot SSID name"
-    },
-    {
-      "date": "2023-05-14",
-      "datetime": "1684016849",
-      "filename": "aospa-topaz-1-vayu-20230513.zip",
-      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-vayu-20230513.zip",
-      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-vayu-20230513-image.zip",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-stable-1",
-      "size": "2230912851",
-      "build_type": "Stable",
-      "version_code": "1",
-      "version": "Topaz",
-      "android_version": "13",
-      "android_spl": "2023-05-05",
-      "changelog_device": ""
-    },
-    {
-      "date": "2022-02-25",
-      "datetime": "1645747333",
-      "filename": "aospa-sapphire-1-vayu-alpha-20220225.zip",
-      "url": "https://github.com/aospa-releases/vayu/releases/download/sapphire-alpha-1/aospa-sapphire-1-vayu-alpha-20220225.zip",
-      "id": "sapphire-alpha-1",
-      "size": "1824801971",
-      "build_type": "Alpha",
-      "version_code": "1",
-      "version": "Sapphire", 
-      "android_version": "12",
-      "android_spl": "2022-02-05",
-      "changelog_device": ""
     }
   ]
 }
