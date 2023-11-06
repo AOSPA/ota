@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "90b6ed6c_6d24fe50",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2023-11-06T23:42:16Z",
+      "side": 1,
+      "message": "Only keeping the latest topaz and removing all older builds and devices that never received topaz. The builds will be moved off R2 to cold storage, so they\u0027ll be available if we need them in the future for strange user requests.",
+      "revId": "59ded63795e99c765e64db0850e28e1fbc9fd73e",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
