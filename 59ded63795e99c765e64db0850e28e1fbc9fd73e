@@ -16,6 +16,23 @@
       "message": "Only keeping the latest topaz and removing all older builds and devices that never received topaz. The builds will be moved off R2 to cold storage, so they\u0027ll be available if we need them in the future for strange user requests.",
       "revId": "59ded63795e99c765e64db0850e28e1fbc9fd73e",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ddbe6575_2a933b90",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000055
+      },
+      "writtenOn": "2023-11-07T08:37:47Z",
+      "side": 1,
+      "message": "Honestly removing all stable builds look ugly.\n\nI would remove everything but topaz stable builds, is good to have a history of releases and device changes, also it would make the website look too empty.",
+      "revId": "59ded63795e99c765e64db0850e28e1fbc9fd73e",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
