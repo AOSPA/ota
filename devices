@@ -915,6 +915,34 @@
                     }
                ],
                "xda_thread": "https://forum.xda-developers.com/t/paranoid-android-sapphire-alpha-2-mi-mix-3.4400743/"
+          },
+          {
+               "name": "M6 Pro",
+               "codename": "sky",
+               "manufacturer": "POCO",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "redducc",
+                         "link": "https://xdaforums.com/m/redducc.11452247/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": null
+          },
+          {
+               "name": "12 5G",
+               "codename": "sky",
+               "manufacturer": "Redmi",
+               "active": true,
+               "maintainers": [
+                    {
+                         "name": "redducc",
+                         "link": "https://xdaforums.com/m/redducc.11452247/",
+                         "country": "IN"
+                    }
+               ],
+               "xda_thread": null
           }
      ]
 }
