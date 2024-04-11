@@ -16,6 +16,24 @@
       "message": "Do not add the NOTE. Changelog device has to have just a one line string with the device changes separated with \",\" everything else does not belong there.",
       "revId": "ab607d1396ac6b133d8b8fc456fc8a3c474f343f",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e0bbdf79_560c3b56",
+        "filename": "updates/phone1",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000055
+      },
+      "writtenOn": "2024-04-11T13:23:39Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c38df7d7_2e72ee79",
+      "revId": "ab607d1396ac6b133d8b8fc456fc8a3c474f343f",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
