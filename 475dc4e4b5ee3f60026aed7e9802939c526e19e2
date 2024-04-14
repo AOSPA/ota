@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "323c2af4_4d5c9130",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000488
+      },
+      "writtenOn": "2024-04-14T15:42:39Z",
+      "side": 1,
+      "message": "thanks omcar :)",
+      "revId": "475dc4e4b5ee3f60026aed7e9802939c526e19e2",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
