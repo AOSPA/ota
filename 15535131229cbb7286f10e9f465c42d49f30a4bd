@@ -34,6 +34,24 @@
       "parentUuid": "5c6d8a19_abed34bb",
       "revId": "15535131229cbb7286f10e9f465c42d49f30a4bd",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ff99bf88_be693453",
+        "filename": "updates/phone2",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000760
+      },
+      "writtenOn": "2024-04-15T14:58:53Z",
+      "side": 1,
+      "message": "*just removing",
+      "parentUuid": "4e264a51_513c442f",
+      "revId": "15535131229cbb7286f10e9f465c42d49f30a4bd",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
