@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5c6d8a19_abed34bb",
+        "filename": "updates/phone2",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2024-04-15T14:54:39Z",
+      "side": 1,
+      "message": "that\u0027s not device changelog, just mention it in xda/tg channel whatever",
+      "revId": "15535131229cbb7286f10e9f465c42d49f30a4bd",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
