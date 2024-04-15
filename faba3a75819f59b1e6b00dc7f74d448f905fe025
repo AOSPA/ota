@@ -18,6 +18,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "f3d9c7db_ba88bf3f",
+        "filename": "updates/apollo",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2024-04-15T05:03:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a6f8df35_cb32f695",
+      "revId": "faba3a75819f59b1e6b00dc7f74d448f905fe025",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cd6f0050_3ee24392",
@@ -31,6 +49,24 @@
       "writtenOn": "2024-04-15T03:03:07Z",
       "side": 1,
       "message": "spaces",
+      "revId": "faba3a75819f59b1e6b00dc7f74d448f905fe025",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "88e10745_04004950",
+        "filename": "updates/apollo",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2024-04-15T05:03:12Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cd6f0050_3ee24392",
       "revId": "faba3a75819f59b1e6b00dc7f74d448f905fe025",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
