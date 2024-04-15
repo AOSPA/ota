@@ -18,6 +18,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d8b99246_ccbec32a",
+        "filename": "updates/lahaina",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000941
+      },
+      "writtenOn": "2024-04-15T04:00:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e2ac8f98_7f2d785e",
+      "revId": "f1b1651ff53d42cb9257c5f29adba410307b2a19",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ce65b6a8_8af60605",
@@ -31,6 +49,24 @@
       "writtenOn": "2024-04-15T03:03:46Z",
       "side": 1,
       "message": "remove the whitespace",
+      "revId": "f1b1651ff53d42cb9257c5f29adba410307b2a19",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4cd1b480_66606a20",
+        "filename": "updates/lito",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000941
+      },
+      "writtenOn": "2024-04-15T04:00:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ce65b6a8_8af60605",
       "revId": "f1b1651ff53d42cb9257c5f29adba410307b2a19",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
