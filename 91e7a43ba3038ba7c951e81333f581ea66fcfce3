@@ -33,6 +33,24 @@
       "message": "Do remove the redundant slash\n```suggestion\n- Custom recoveries (twrp, orangefox etc.) and kernels are not recommended and not supported by me. Do not report issues or bricks to me after using them.\n```",
       "revId": "91e7a43ba3038ba7c951e81333f581ea66fcfce3",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "702e3ec7_ee8e777a",
+        "filename": "instructions/miatoll.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000730
+      },
+      "writtenOn": "2024-04-25T10:27:20Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "54304772_8ba57c11",
+      "revId": "91e7a43ba3038ba7c951e81333f581ea66fcfce3",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
