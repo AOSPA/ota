@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-04",
+      "datetime": "1717481862",
+      "filename": "aospa-uvite-beta-surya-20240604.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-surya-20240604.zip",
+      "recovery_sha256": "2bcb03cf3df7464137504bec9b970fe8720bd185301ff14746f9d1facfc9bacf",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-surya-20240604-image.zip",
+      "fastboot_sha256": "03f00512ee8707880b540f3be93bf35502a1c6c37c42b170b1f6f5551ae3e53d",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "2560901116",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-05-05",
+      "changelog_device": "Switch multihal sensor to AIDL service, Switch to AIDL IR service, Fix the modules writing, Use override Gatekeeper and Keymaster blobs from LA.UM.9.1.r1*"
+    },
+    {
       "date": "2024-02-12",
       "datetime": "1712912320",
       "filename": "aospa-uvite-beta-surya-20240412.zip",
