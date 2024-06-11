@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-06-04",
+      "datetime": "1712947960",
+      "filename": "aospa-uvite-beta-spes-20240604.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-spes-20240604.zip",
+      "recovery_sha256": "7cb4fde3ddaa7c21470d549cf7586529c63e8775e6bb03b00405728f4fe45797",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-spes-20240604-image.zip",
+      "fastboot_sha256": "ea0f41e4090935d71bc893a5b9ca87f1d46f2a02dc486cbf51d4a7c48c667ff8",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-3",
+      "size": "1962726437",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-05-05",
+      "changelog_device": "Updated vendor blobs to LA.UM.9.15.2.r1-09700-KAMORTA.QSSI14.0"
+    },
+    {
       "date": "2024-04-12",
       "datetime": "1712947960",
       "filename": "aospa-uvite-beta-spes-20240412.zip",
