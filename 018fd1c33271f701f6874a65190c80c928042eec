@@ -16,6 +16,24 @@
       "message": "don\u0027t add platform changelog here",
       "revId": "018fd1c33271f701f6874a65190c80c928042eec",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a098803e_c06007a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000429
+      },
+      "writtenOn": "2024-06-19T03:26:23Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "736664d2_1b8ac322",
+      "revId": "018fd1c33271f701f6874a65190c80c928042eec",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
