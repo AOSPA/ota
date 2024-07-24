@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c4846485_b73f43bd",
+        "filename": "updates/sky",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2024-07-24T13:27:00Z",
+      "side": 1,
+      "message": "date",
+      "revId": "7571d4623aa28e5807e4eeaed3849ee06951940b",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
