@@ -16,6 +16,24 @@
       "message": "date",
       "revId": "7571d4623aa28e5807e4eeaed3849ee06951940b",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8d3f7af_5ec00943",
+        "filename": "updates/sky",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000945
+      },
+      "writtenOn": "2024-07-24T20:38:09Z",
+      "side": 1,
+      "message": "done",
+      "parentUuid": "c4846485_b73f43bd",
+      "revId": "7571d4623aa28e5807e4eeaed3849ee06951940b",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
