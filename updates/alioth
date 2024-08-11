@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-08-11",
+      "datetime": "1723389364",
+      "filename": "aospa-uvite-beta-alioth-20240811.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-alioth-20240811.zip",
+      "recovery_sha256": "0025827bf02c442bb788db80ab16a375c212e941da1a79d00c9d96406e248224",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-alioth-20240811-image.zip",
+      "fastboot_sha256": "690e8eef1c56c6b7e8d9dfff8b6f18ae1c9dc62ca6bd05df11a777d3341aac1e",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-7",
+      "size": "2387988102",
+      "build_type": "Beta",
+      "version_code": "7",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-07-05",
+      "changelog_device": "Fix slow autobrightness reaction speed, Improve power consumption during Video Playback, Enable haptics while opening Quick Settings, Fix Dolby Virtualiser settings not restoring properly on boot, Update to HyperOS 1.0.3.0, Disable PocketMode, Improvements to performance and system stability"
+    },
+    {
       "date": "2024-07-08",
       "datetime": "1720419770",
       "filename": "aospa-uvite-beta-alioth-20240708.zip",
