@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-08-12",
+      "datetime": "1723464000",
+      "filename": "aospa-uvite-beta-ishtar-20240812.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-ishtar-20240812.zip",
+      "recovery_sha256": "ef299f4d39966cd4e549b2193f406c377943ebf16660c30e51fae22114987234",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-ishtar-20240812-image.zip",
+      "fastboot_sha256": "c9f09c68833b8184203c626ca31ec771c3281ac161b0fda218a6cee983fab09a",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-9",
+      "size": "3491865675",
+      "build_type": "Beta",
+      "version_code": "9",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-08-05",
+      "changelog_device": ""
+    },
+    {
       "date": "2024-07-20",
       "datetime": "1721505600",
       "filename": "aospa-uvite-beta-ishtar-20240720.zip",
