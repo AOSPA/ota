@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-09-03",
+      "datetime": "1725375627",
+      "filename": "aospa-uvite-beta-marble-20240903.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240903.zip",
+      "recovery_sha256": "f6e64b6dda93bc22bef8f57cf6df21e53165173f6fa3ba266b780641d7d7ed5d  ",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-marble-20240903-image.zip",
+      "fastboot_sha256": "6dd51bde33c3fbd1afe6bbbcd92b9023b4c65b6c3bfa808aa3f5c2a34764e4e0",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-6",
+      "size": "2390037181",
+      "build_type": "Beta",
+      "version_code": "6",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-08-05",
+      "changelog_device": "Moved to source-built custom kernel, Added single tap screen-off gesture, Added graphical equalizer and intelligent equalizer in Dolby, Improved pocket mode handling, Auto-determine thermal profile for some apps, Re-enabled low power AOD for 0B panel"
+    },
+    {
       "date": "2024-07-19",
       "datetime": "1721356662",
       "filename": "aospa-uvite-beta-marble-20240719.zip",
