@@ -13,20 +13,6 @@
       "android_version": "12",
       "android_spl": "2022-01-05",
       "changelog_device": ""
-    },
-    {
-      "date": "2021-12-04",
-      "datetime": "1638576000",
-      "filename": "aospa-sapphire-1-umi-alpha-20211204.zip",
-      "url": "https://github.com/aospa-releases/umi/releases/download/sapphire-alpha-1/aospa-sapphire-1-umi-alpha-20211204.zip",
-      "id": "sapphire-alpha-1",
-      "size": "1389379622",
-      "build_type": "Alpha",
-      "version_code": "1",
-      "version": "Sapphire", 
-      "android_version": "12",
-      "android_spl": "2021-11-05",
-      "changelog_device": ""
     }
   ]
 }

@@ -132,42 +132,6 @@
       "android_version": "13",
       "android_spl": "2023-09-05",
       "changelog_device": "Set AOD refresh rate to 60 Hz, Enabled Secure NFC feature, Added Dolby Atmos"
-    },
-    {
-      "date": "2023-07-22",
-      "datetime": "1689934177",
-      "filename": "aospa-topaz-2-munch-20230722.zip",
-      "url": "https://builds.paranoidandroid.co/aospa-topaz-2-munch-20230722.zip",
-      "recovery_sha256": "cd6a38385f68c3bc79a48849f390c50ccc8fc8ffff73e837733013cd47ead467",
-      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-2-munch-20230722-image.zip",
-      "fastboot_sha256": "a0846250e13bc96595f74b6717a1ee9d569e15a0a1e015e70466942c09e44d31",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-stable-2",
-      "size": "1984745447",
-      "build_type": "Stable",
-      "version_code": "2",
-      "version": "Topaz",
-      "android_version": "13",
-      "android_spl": "2023-07-05",
-      "changelog_device": "Fixed QS lags, Fixed issues with stune, Updated MIUI blobs to V14.0.3.0.TLMMIXM, Improved overall system performance, Improved haptics"
-    },
-    {
-      "date": "2023-04-27",
-      "datetime": "1682543403",
-      "filename": "aospa-topaz-1-munch-20230426.zip",
-      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-munch-20230426.zip",
-      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-munch-20230426-image.zip",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-stable-1",
-      "size": "1928462513",
-      "build_type": "Stable",
-      "version_code": "1",
-      "version": "Topaz",
-      "android_version": "13",
-      "android_spl": "2023-04-05",
-      "changelog_device": "Initial Release"
     }
   ]
 }

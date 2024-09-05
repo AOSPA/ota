@@ -16,40 +16,6 @@
       "android_version": "13",
       "android_spl": "2022-11-05",
       "changelog_device": "Fixed issue where device would crash and reboot, Fixed long press near the edges of display, Fixed thermal mitigation services, Addressed some issues that had a negative effect on performance, Updated to November SPL (android-13.0.0_r12), Add support for Face Unlock, Add support for OTA updates"
-    },
-    {
-      "date": "2022-10-16",
-      "datetime": "1665792222",
-      "filename": "aospa-topaz-beta-1.1-oriole-20221016.zip",
-      "url": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-oriole/aospa-topaz-beta-1.1-oriole-20221016.zip",
-      "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1.1-oriole/aospa-topaz-beta-1.1-oriole-20221016-image.zip",
-      "mirror": "https://drive.google.com/drive/folders/1f8NeK8aERsZXoTzyDfviYzdMDpg-jMff?usp=sharing",
-      "telegram": "https://t.me/paranoidaospa/88",
-      "id": "topaz-beta-1.1",
-      "size": "1658741945",
-      "build_type": "Beta",
-      "version_code": "1.1",
-      "version": "Topaz", 
-      "android_version": "13",
-      "android_spl": "2022-10-05",
-      "changelog_device": "Fixed issue where the wallpaper couldn't be changed, Fixed access to onboard theming"
-    },
-    {
-      "date": "2022-10-15",
-      "datetime": "1665792000",
-      "filename": "aospa-topaz-beta-1-oriole-20221015.zip",
-      "url": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1-oriole/aospa-topaz-beta-1-oriole-20221015.zip",
-      "fastboot": "https://github.com/AOSPA/android_device_google_raviole/releases/download/topaz-beta-1-oriole/aospa-topaz-beta-1-oriole-20221015-image.zip",
-      "mirror": "https://drive.google.com/drive/folders/1OkqMVGAefvjPNRPRd67W1yNriwmqdGo9?usp=sharing",
-      "telegram": "https://t.me/paranoidaospa/82",
-      "id": "topaz-beta-1",
-      "size": "1658741945",
-      "build_type": "Beta",
-      "version_code": "1",
-      "version": "Topaz", 
-      "android_version": "13",
-      "android_spl": "2022-10-05",
-      "changelog_device": "Initial beta release"
     }
    ]
 }
