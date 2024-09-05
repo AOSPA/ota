@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-09-04",
+      "datetime": "1725428853",
+      "filename": "aospa-uvite-beta-mi439_419-20240904.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-mi439_419-20240904.zip",
+      "recovery_sha256": "d06a451767f8ba9e72ce08d63e31fa13cb49eb1f520a873374519fd495f9b4b1",
+      "fastboot": "",
+      "fastboot_sha256": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-8",
+      "size": "1927159174",
+      "build_type": "Beta",
+      "version_code": "8",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-08-05",
+      "changelog_device": "Updated kernel to 4.19.318, Fixed IR Blaster"
+    },
+    {
       "date": "2024-07-22",
       "datetime": "1721643284",
       "filename": "aospa-uvite-beta-mi439_419-20240722.zip",
