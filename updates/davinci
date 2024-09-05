@@ -37,40 +37,6 @@
       "android_version": "13",
       "android_spl": "2023-07-05",
       "changelog_device": "Set 240Hz touch sampling on boot."
-    },
-    {
-      "date": "2023-04-27",
-      "datetime": "1682389925",
-      "filename": "aospa-topaz-1-davinci-20230425.zip",
-      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-davinci-20230425.zip",
-      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-davinci-20230425-image.zip",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-stable-1",
-      "size": "2120628243",
-      "build_type": "Stable",
-      "version_code": "1",
-      "version": "Topaz",
-      "android_version": "13",
-      "android_spl": "2023-04-05",
-      "changelog_device": "Initial Stable Release"
-    },
-    {
-      "date": "2023-02-20",
-      "datetime": "1677023781",
-      "filename": "aospa-topaz-alpha-1-davinci-20230220.zip",
-      "url": "https://pixeldrain.com/api/file/1pDFKEhN",
-      "fastboot": "https://pixeldrain.com/api/file/e5G3T6K8",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-alpha-1",
-      "size": "2026859409",
-      "build_type": "Alpha",
-      "version_code": "1",
-      "version": "Topaz",
-      "android_version": "13",
-      "android_spl": "2023-02-05",
-      "changelog_device": "Initial Alpha Release"
     }
    ]
 }
