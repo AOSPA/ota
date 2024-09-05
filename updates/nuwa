@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-09-04",
+      "datetime": "1725472800",
+      "filename": "aospa-uvite-beta-nuwa-20240904.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-nuwa-20240904.zip",
+      "recovery_sha256": "96702066d45a2b0fd21b57345e906434d7381548f030b338d6a7277610995e75",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-nuwa-20240904-image.zip",
+      "fastboot_sha256": "bf0579e0bd28e384149fba0eb4741b0adeb26c480708d058967cd5ed0abb598d",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-10",
+      "size": "3202308603",
+      "build_type": "Beta",
+      "version_code": "10",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-08-05",
+      "changelog_device": "Please update your firmware to Global OS1.0.8.0.UMBMIXM, Europe OS1.0.7.0.UMBEUXM, India OS1.0.7.0.UMBINXM, China OS1.0.8.0.UMBCNXM or newer"
+    },
+    {
       "date": "2024-08-12",
       "datetime": "1723464000",
       "filename": "aospa-uvite-beta-nuwa-20240812.zip",
