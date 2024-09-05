@@ -37,57 +37,6 @@
       "android_version": "13",
       "android_spl": "2023-08-05",
       "changelog_device": "Added more offscreen gestures, Compiled the kernel with full LLVM, Enabled clang ThinLTO on kernel, Enabled shadow call stack on kernel, Fixed Google ARCore support, Fixed hotspot issues, Fixed some wifi issues, Fixed USB OTG for some users, Improved FOD, Merged August 2023 ASB tag into kernel, Misc kernel and performance improvements, Reworked thermal behavior, Reworked CPU cores limitations with battery saver enabled, Updated all common blobs to RMX3370_11.F.07, Updated kernel lz4 driver to android15-6.1 branch"
-    },
-    {
-      "date": "2023-04-27",
-      "datetime": "1682553600",
-      "filename": "aospa-topaz-1-bladerunner-20230427.zip",
-      "url": "https://builds.paranoidandroid.co/aospa-topaz-1-bladerunner-20230427.zip",
-      "fastboot": "https://builds.paranoidandroid.co/aospa-topaz-1-bladerunner-20230427-image.zip",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-stable-1",
-      "size": "2633906553",
-      "build_type": "Stable",
-      "version_code": "1",
-      "version": "Topaz",
-      "android_version": "13",
-      "android_spl": "2023-04-05",
-      "changelog_device": "First stable release"
-    },
-    {
-      "date": "2023-02-22",
-      "datetime": "1677039921",
-      "filename": "aospa-topaz-beta-2-bladerunner-20230222.zip",
-      "url": "https://pixeldrain.com/api/file/n1bKrPci",
-      "fastboot": "https://pixeldrain.com/api/file/nmWvZD2K",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-beta-2",
-      "size": "2633906553",
-      "build_type": "Beta",
-      "version_code": "2",
-      "version": "Topaz",
-      "android_version": "13",
-      "android_spl": "2023-02-05",
-      "changelog_device": "Fingerprint, NFC, and Radio fixes"
-    },
-    {
-      "date": "2023-01-15",
-      "datetime": "1673758341",
-      "filename": "aospa-topaz-beta-1-bladerunner-20230115.zip",
-      "url": "https://mirror.codebucket.de/gotenks/aospa/bladerunner/aospa-topaz-beta-1-bladerunner-20230115.zip",
-      "fastboot": "https://mirror.codebucket.de/gotenks/aospa/bladerunner/aospa-topaz-beta-1-bladerunner-20230115-image.zip",
-      "mirror": "",
-      "telegram": "",
-      "id": "topaz-beta-1",
-      "size": "2372631420",
-      "build_type": "Beta",
-      "version_code": "1",
-      "version": "Topaz", 
-      "android_version": "13",
-      "android_spl": "2023-01-05",
-      "changelog_device": "Initial Beta Release"
     }
    ]
 }
