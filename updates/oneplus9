@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2024-09-12",
+      "datetime": "1726121249",
+      "filename": "aospa-uvite-beta-oneplus9-20240912.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240912.zip",
+      "recovery_sha256": "ab9d274ea32a951d9edab2625bff815790e3583f3ec45efad6888d5bca0bb26c",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-uvite-beta-oneplus9-20240912-image.zip",
+      "fastboot_sha256": "e547f1b661526b08804a8f99c7091ec4345f35266b94ee1411fba32c8f568263",
+      "mirror": "",
+      "telegram": "",
+      "id": "uvite-beta-7",
+      "size": "2549546339",
+      "build_type": "Beta",
+      "version_code": "7",
+      "version": "Uvite",
+      "android_version": "14",
+      "android_spl": "2024-08-05",
+      "changelog_device": "Fixed Call recording, Fixed background app kills, Added new Dolby Graphic Equalizer and Speaker Virtualizaton."
+    },
+    {
       "date": "2024-06-20",
       "datetime": "1718867923",
       "filename": "aospa-uvite-beta-oneplus9-20240620.zip",
